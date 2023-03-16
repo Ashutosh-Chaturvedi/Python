@@ -1,2 +1,6 @@
-print ("Hello world")
+print ("Hello worlds how are you!!")
+a = 2
+b= 3
+c= a+b 
+print (c)
 
